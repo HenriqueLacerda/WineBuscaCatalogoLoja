@@ -1,0 +1,7 @@
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/dto/LojaRequestDto.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/repository/LojaRepository.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/dto/LojaResponseDto.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/WineCatalogoApplication.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/entity/Loja.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/service/LojaService.java
+/home/henrique/Estudos/SistemasParaTeste/WineBuscaCatalogoLoja/src/main/java/br/com/wine/catalogo/controller/LojaController.java
