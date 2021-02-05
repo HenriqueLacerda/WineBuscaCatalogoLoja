@@ -1,7 +1,0 @@
-br/com/wine/catalogo/dto/LojaResponseDto.class
-br/com/wine/catalogo/service/LojaService.class
-br/com/wine/catalogo/dto/LojaRequestDto.class
-br/com/wine/catalogo/entity/Loja.class
-br/com/wine/catalogo/WineCatalogoApplication.class
-br/com/wine/catalogo/repository/LojaRepository.class
-br/com/wine/catalogo/controller/LojaController.class
